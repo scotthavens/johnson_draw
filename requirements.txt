@@ -1,0 +1,9 @@
+jupyterlab
+matplotlib
+numpy
+pandas
+xarray
+dask[complete]
+netCDF4
+ipympl
+pandas-bokeh
